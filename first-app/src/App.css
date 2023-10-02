@@ -1,0 +1,51 @@
+.logo{
+    width: 120px;
+    height: 50px;
+    object-fit: fill;
+    
+}
+.banner-bg{
+   background-image:linear-gradient(rgba(55, 54, 54, 0.5), rgba(104, 100, 100, 0.5)), url(../src/assets/images/banner-1.jpg);
+   background-size: cover;
+   height: 530px !important;
+   display: block;
+   padding-top: 150px;
+    
+}
+.marginAll{
+    margin: 30px 0px 30px 0px ;
+}
+.team{
+    text-align: center;
+    color: #4285f4;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.student-img{
+   
+    height: 200px;
+    height: 300px;
+    object-fit: contain;
+}
+.pro{
+    margin: 0px 85px;
+}
+.pro-img{
+    object-fit: cover;
+    height: 340px; 
+    width: 540px;
+
+}
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.img {width:100%;}
+.radio{
+    display: flex;
+}
+.form-check-label{
+    margin-right: 10px;
+}
