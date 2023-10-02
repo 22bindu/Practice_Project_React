@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // import StudentAxios from './StudentAxios';
-import Mainlayout from '../layout/Mainlayout';
+// import Mainlayout from '../layout/Mainlayout';
 
 
 class Student extends Component {

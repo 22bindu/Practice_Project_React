@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 // import Team from './Team';
-import Student from './Student';
+// import Student from './Student';
 
 
 function Navbar() {
